@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\Progects\dbconnection\dbconnection\bin\Debug\net5.0\dbconnection.exe
+C:\Users\ASUS\Desktop\Progects\dbconnection\dbconnection\bin\Debug\net5.0\dbconnection.deps.json
+C:\Users\ASUS\Desktop\Progects\dbconnection\dbconnection\bin\Debug\net5.0\dbconnection.runtimeconfig.json
+C:\Users\ASUS\Desktop\Progects\dbconnection\dbconnection\bin\Debug\net5.0\dbconnection.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Progects\dbconnection\dbconnection\bin\Debug\net5.0\dbconnection.dll
+C:\Users\ASUS\Desktop\Progects\dbconnection\dbconnection\bin\Debug\net5.0\ref\dbconnection.dll
+C:\Users\ASUS\Desktop\Progects\dbconnection\dbconnection\bin\Debug\net5.0\dbconnection.pdb
+C:\Users\ASUS\Desktop\Progects\dbconnection\dbconnection\obj\Debug\net5.0\dbconnection.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Progects\dbconnection\dbconnection\obj\Debug\net5.0\dbconnection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Progects\dbconnection\dbconnection\obj\Debug\net5.0\dbconnection.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Progects\dbconnection\dbconnection\obj\Debug\net5.0\dbconnection.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Progects\dbconnection\dbconnection\obj\Debug\net5.0\dbconnection.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Progects\dbconnection\dbconnection\obj\Debug\net5.0\dbconnection.dll
+C:\Users\ASUS\Desktop\Progects\dbconnection\dbconnection\obj\Debug\net5.0\ref\dbconnection.dll
+C:\Users\ASUS\Desktop\Progects\dbconnection\dbconnection\obj\Debug\net5.0\dbconnection.pdb
+C:\Users\ASUS\Desktop\Progects\dbconnection\dbconnection\obj\Debug\net5.0\dbconnection.genruntimeconfig.cache
